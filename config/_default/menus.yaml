@@ -8,6 +8,18 @@ leftnav:
   url: /pages/lecture-notes
   weight: 20
 - identifier: d56984d2-7e01-4ab8-996f-5b9c1bc06672
-  name: Supplementary notes
+  name: Supplementary Notes
   url: /pages/supplementary-notes
   weight: 30
+- identifier: f93dca8f-b6e3-4bea-bbd5-2f6b0ebe057b
+  name: Mathematica Codes
+  url: /pages/mathematica-codes
+  weight: 40
+- identifier: dbcef353-5a9c-4fef-a62e-e6157fe67047
+  name: Problem Sets
+  url: /pages/problem-sets
+  weight: 50
+- identifier: bea677be-f33a-4e63-9b2b-adede40fb050
+  name: Exams
+  url: /pages/exams
+  weight: 60
