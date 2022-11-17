@@ -1,0 +1,51 @@
+{
+  "term": "Summer",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "introduction-to-oscillations-and-waves"
+  },
+  "course_image": {
+    "content": "",
+    "website": "introduction-to-oscillations-and-waves"
+  },
+  "course_title": "Introduction to Oscillations and Waves ",
+  "course_description": "*Introduction to Oscillations and Waves* covers the basic mathematics and physics of oscillatory and wave phenomena. By the end of the course, students should be able to explain why oscillations appear in many near equilibrium systems, the various mathematical properties of those oscillations in various contexts, how oscillations and waves are related, and the basic mathematical description and properties of a wave.\n\nThis course was offered as part of [Minority Introduction to Engineering and Science (MITES](https://oeop.mit.edu/programs/mites/program-details)),\u00a0a rigorous six-week residential academic enrichment program for rising high school seniors.\u00a0 MITES is just one of the programs offered through [The MIT Office of Engineering Outreach Programs (OEOP)](https://oeop.mit.edu/about-oeop) for underrepresented and underserved students interested in science, technology, engineering, and mathematics.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.8-009",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "introduction-to-oscillations-and-waves"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "4de37613-1cda-432b-b029-bccbab8583b5",
+  "site_short_id": "res.8-009-summer-2017"
+}
