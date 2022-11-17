@@ -23,8 +23,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "introduction-to-oscillations-and-waves"
+    "content": [
+      "8c23f270-d4dc-42a5-879b-99cc519d3d5b"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
