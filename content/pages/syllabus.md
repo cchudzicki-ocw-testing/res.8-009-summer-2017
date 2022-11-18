@@ -10,6 +10,8 @@ uid: 76f8e098-877f-4c20-91ee-237ebf04a428
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
+Recitations: 1 session / week,  1 hour / session.  Attending recitation is mandatory.
+
 ### **Prerequisites**
 
 With regard to mathematics, students should be proficient in algebra, matrix addition/multiplication, trigonometry, analytic geometry, and basic differentiation/integration. With regard to physics, students should have had prior exposure to and practice with Newton’s laws of motion, 1D kinematics, 2D projectile motion, and conservation of energy/momentum.
