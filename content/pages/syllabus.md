@@ -28,28 +28,28 @@ This course will cover the basic mathematics and physics of oscillatory and wave
 
 - Simple Harmonic Oscillator: equation of motion, solutions to equation of motion, classical pendulum
 - Damped Oscillator: underdamped, overdamped, and critically damped oscillator
-- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and       
+- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and        
     phase
-- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,       
+- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,        
     three masses connected by springs, N masses connected by springs
-- Wave Equation and StandingWaves: N ! 1limit of coupled oscillators, transverse and longitudinal       
+- Wave Equation and Standing Waves: N ! 1limit of coupled oscillators, transverse and longitudinal        
     waves, boundary conditions, Fourier series
-- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,       
+- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,        
     reflection and transmission of a wave, wave through a medium
-- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of       
+- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of        
     light, properties of electromagnetic waves
 - Linear Systems: one-dimensional linear systems, fixed points, stability, bifurcations
-- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional       
+- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional        
     linear systems
 - Limit Cycles: self-oscillations, alone on a swing
 
 ### Lecture Notes and Online Resources
 
- There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course.  We will not have a formal textbook, however, many useful references can be found online.
+There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course.  We will not have a formal textbook, however, many useful references can be found online.
 
-- [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
+- [MIT 8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
 - [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
-- [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains     many examples of concepts and very solid explanations. This course overlaps with chapters 1-5 and chapter 8.
+- [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1-5 and chapter 8.
 
 ### Assignments
 
@@ -63,7 +63,7 @@ In completing these assignments, you can use online resources and your peers for
 
 Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement (”Sup 01” on the course website) will review the proper format for writing up your solutions.
 
-*Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning   before the start of class. The last assignment will be due on the day before the final exam..
+*Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam..
 
 ### Exams
 
