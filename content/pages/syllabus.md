@@ -24,13 +24,40 @@ With regard to mathematics, students should be proficient in algebra, matrix add
 
 This course will cover the basic mathematics and physics of oscillatory andwave phenomena. Content-wise, by the end of the course, students should be able to explain why oscillations appear in many near equilibrium systems, the various mathematical properties of those oscillations in various contexts, how oscillations and waves are related, and the basic mathematical description and properties of a wave. Skill-wise, students should become adept at translating conceptual understanding into mathematical explanations, writing short programs to solve analytical systems, and developing clear questions about physical systems.
 
-### **Online Resources and Notes**
+### **Lecture Notes and Online Resources** 
 
- There are lecture notes for the course, but we will not have a formal textbook. However, many useful references can be found online.
+ There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course.  We will not have a formal textbook, however, many useful references can be found online.
 
 - [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions
-- The Physics of Vibrations and Waves by Pain: Comprehensive overview of oscillatory and wave phenomena.       
+- The Physics of Vibrations and Waves by Pain: Comprehensive overview of oscillatory and wave phenomena.        
     This course overlaps with chapters 1-6.
-- [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps       
+- [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps        
     with the chapters 1–3 and 5–6.
 - [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains     many examples of concepts and very solid explanations. This course overlaps with chapters 1-5 and chapter 8.
+
+### Assignments
+
+Most of the knowledge and skills you gain from this course will come from the problems you solve in assignments. Consequently, how much you learn will grow in direct proportion to how much effort you put into these assignments.  
+ 
+
+But you should see these well-defined problems of the assignments as bare-minimum requirements for your learning; If you want to obtain any actionable familiarity with the material, you will certainly have to work through these problems (or others like them), but in order to develop a deeper proficiency you will have to look beyond the assigned work and develop your own ways to interpret the world through the material you’re learning. To this end, the assignments will include opportunities for you to ask and answer your own questions about physical systems.
+
+In completing these assignments, you can use online resources and your peers for help, but plagiarism (passing off someone else’s work or explanation as your own) is not acceptable and will result in a zero for the assignment.
+
+*Note on Collaboration*: 
+
+To prevent any mistakes in this direction, at the end of your assignment, list the people you collaborated with and the online resources you referenced. This list does not mean you can copy derivations from your friends as long as you cite them. Any work you submit  
+must follow from your own reasoning.
+
+Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement (”Sup 01” on the course website) will review the proper format for writing up your solutions.
+
+*Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning  
+before the start of class. The last assignment will be due on the day before the final exam..
+
+### Exams
+
+There will be a midterm and a final exam.
+
+### Evaluation
+
+There are no formal grades in [MITES](https://oeop.mit.edu/programs/mites/program-details), but you will receive numerical grades on your assignments and exams so that you (and I) can track your progress. Overall don’t stress too much about the absolute value of these grades over the course of the program. What is more important is consistently showing up in class, recitation, and office hours, and working to complete all assignments.
