@@ -14,7 +14,7 @@ Recitations: 1 session / week,  1 hour / session.  Attending recitation is man
 
 ### About this Course
 
-This course is offered as part of [Minority Introduction to Engineering and Science (MITES](https://oeop.mit.edu/programs/mites/program-details)), a rigorous six-week residential academic enrichment program for rising high school seniors.  MITES is just one of the programs offered through [The MIT Office of Engineering Outreach Programs (OEOP)](https://oeop.mit.edu/about-oeop) for underrepresented and underserved students interested in science, technology, engineering, and mathematics.
+This course is offered as part of [Minority Introduction to Engineering and Science (MITES](https://oeop.mit.edu/programs/mites/program-details)), a rigorous six-week residential academic enrichment program for rising high school seniors. MITES is just one of the programs offered through [The MIT Office of Engineering Outreach Programs (OEOP)](https://oeop.mit.edu/about-oeop) for underrepresented and underserved students interested in science, technology, engineering, and mathematics.
 
 ### Prerequisites
 
@@ -22,24 +22,24 @@ With regard to mathematics, students should be proficient in algebra, matrix add
 
 ### Description
 
-This course will cover the basic mathematics and physics of oscillatory andwave phenomena. Content-wise, by the end of the course, students should be able to explain why oscillations appear in many near equilibrium systems, the various mathematical properties of those oscillations in various contexts, how oscillations and waves are related, and the basic mathematical description and properties of a wave. Skill-wise, students should become adept at translating conceptual understanding into mathematical explanations, writing short programs to solve analytical systems, and developing clear questions about physical systems.
+This course will cover the basic mathematics and physics of oscillatory and wave phenomena. Content-wise, by the end of the course, students should be able to explain why oscillations appear in many near equilibrium systems, the various mathematical properties of those oscillations in various contexts, how oscillations and waves are related, and the basic mathematical description and properties of a wave. Skill-wise, students should become adept at translating conceptual understanding into mathematical explanations, writing short programs to solve analytical systems, and developing clear questions about physical systems.
 
 ### Topic Outline
 
 - Simple Harmonic Oscillator: equation of motion, solutions to equation of motion, classical pendulum
 - Damped Oscillator: underdamped, overdamped, and critically damped oscillator
-- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and      
+- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and       
     phase
-- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,      
+- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,       
     three masses connected by springs, N masses connected by springs
-- Wave Equation and StandingWaves: N ! 1limit of coupled oscillators, transverse and longitudinal      
+- Wave Equation and StandingWaves: N ! 1limit of coupled oscillators, transverse and longitudinal       
     waves, boundary conditions, Fourier series
-- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,      
+- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,       
     reflection and transmission of a wave, wave through a medium
-- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of      
+- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of       
     light, properties of electromagnetic waves
 - Linear Systems: one-dimensional linear systems, fixed points, stability, bifurcations
-- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional      
+- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional       
     linear systems
 - Limit Cycles: self-oscillations, alone on a swing
 
@@ -48,8 +48,7 @@ This course will cover the basic mathematics and physics of oscillatory andwave 
  There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course.  We will not have a formal textbook, however, many useful references can be found online.
 
 - [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
-- [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps             
-    with the chapters 1–3 and 5–6.
+- [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
 - [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains     many examples of concepts and very solid explanations. This course overlaps with chapters 1-5 and chapter 8.
 
 ### Assignments
