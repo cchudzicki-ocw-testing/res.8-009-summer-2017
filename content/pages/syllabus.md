@@ -10,7 +10,7 @@ uid: 76f8e098-877f-4c20-91ee-237ebf04a428
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Recitations: 1 session / week,  1 hour / session.  Attending recitation is mandatory.
+Recitations: 1 session / week, 1 hour / session. Attending recitation is mandatory.
 
 ### About this Course
 
@@ -28,24 +28,24 @@ This course will cover the basic mathematics and physics of oscillatory and wave
 
 - Simple Harmonic Oscillator: equation of motion, solutions to equation of motion, classical pendulum
 - Damped Oscillator: underdamped, overdamped, and critically damped oscillator
-- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and        
+- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and         
     phase
-- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,        
+- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,         
     three masses connected by springs, N masses connected by springs
-- Wave Equation and Standing Waves: N ! 1limit of coupled oscillators, transverse and longitudinal        
+- Wave Equation and Standing Waves: N → ∞ limit of coupled oscillators, transverse and longitudinal         
     waves, boundary conditions, Fourier series
-- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,        
+- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,         
     reflection and transmission of a wave, wave through a medium
-- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of        
+- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of         
     light, properties of electromagnetic waves
 - Linear Systems: one-dimensional linear systems, fixed points, stability, bifurcations
-- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional        
+- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional         
     linear systems
 - Limit Cycles: self-oscillations, alone on a swing
 
 ### Lecture Notes and Online Resources
 
-There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course.  We will not have a formal textbook, however, many useful references can be found online.
+There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
 - [MIT 8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
 - [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
