@@ -21,3 +21,10 @@ draft: false
 title: Syllabus
 uid: 76f8e098-877f-4c20-91ee-237ebf04a428
 ---
+### **Course Meeting Times**
+
+Lectures: 2 sessions / week, 1.5 hours / session
+
+### **Prerequisites**
+
+[*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011), [*18.700 Linear Algebra*](https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013), or [*18.701 Algebra I*](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010); and [*18.100A Introduction to Analysis*](https://ocw.mit.edu/courses/18-100a-introduction-to-analysis-fall-2012), [*18.100B Analysis I*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010), *18.100P Real Analysis*, or *18.100Q Real Analysis*; or permission of the instructor.
