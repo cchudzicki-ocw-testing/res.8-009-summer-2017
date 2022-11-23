@@ -28,19 +28,13 @@ This course will cover the basic mathematics and physics of oscillatory and wave
 
 - Simple Harmonic Oscillator: equation of motion, solutions to equation of motion, classical pendulum
 - Damped Oscillator: underdamped, overdamped, and critically damped oscillator
-- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and         
-    phase
-- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,         
-    three masses connected by springs, N masses connected by springs
-- Wave Equation and Standing Waves: N → ∞ limit of coupled oscillators, transverse and longitudinal         
-    waves, boundary conditions, Fourier series
-- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,         
-    reflection and transmission of a wave, wave through a medium
-- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of         
-    light, properties of electromagnetic waves
+- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and phase
+- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors, three masses connected by springs, N masses connected by springs
+- Wave Equation and Standing Waves: N → ∞ limit of coupled oscillators, transverse and longitudinal waves, boundary conditions, Fourier series
+- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves, reflection and transmission of a wave, wave through a medium
+- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of light, properties of electromagnetic waves
 - Linear Systems: one-dimensional linear systems, fixed points, stability, bifurcations
-- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional         
-    linear systems
+- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional linear systems
 - Limit Cycles: self-oscillations, alone on a swing
 
 ### Lecture Notes and Online Resources
