@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: Problem sets
+description: This page includes problem sets for starter and regular assignments.
 draft: false
-title: Problem sets
+title: Problem Sets
 uid: dbcef353-5a9c-4fef-a62e-e6157fe67047
 ---
