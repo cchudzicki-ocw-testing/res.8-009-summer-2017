@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session. Attending recitation is mandato
 
 ### About this Course
 
-This course is offered as part of [Minority Introduction to Engineering and Science (MITES](https://oeop.mit.edu/programs/mites/program-details)), a rigorous six-week residential academic enrichment program for rising high school seniors. MITES is just one of the programs offered through [The MIT Office of Engineering Outreach Programs (OEOP)](https://oeop.mit.edu/about-oeop) for underrepresented and underserved students interested in science, technology, engineering, and mathematics.
+This course was offered as part of [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/), a six-week, residential STEM experience for rising high school seniors. [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/) provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
 
 ### Prerequisites
 
