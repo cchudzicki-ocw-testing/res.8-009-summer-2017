@@ -7,7 +7,7 @@ uid: 311b8a27-7162-417d-8ab0-db1ce379098f
 ---
 Lecture 1: Mathematical Modeling and Physics (PDF)
 
-Lecture 2–3: Simple Harmonic Oscillator, Classical Pendulum, and General Oscillations (PDF)
+Lectures 2–3: Simple Harmonic Oscillator, Classical Pendulum, and General Oscillations (PDF)
 
 Lecture 4: Damped Oscillations (PDF)
 
