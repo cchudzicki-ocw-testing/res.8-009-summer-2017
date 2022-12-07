@@ -43,7 +43,7 @@ There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture note
 
 - [MIT 8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
 - [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
-- [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1-5 and chapter 8.
+- [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1–5 and chapter 8.
 
 ### Assignments
 
@@ -55,9 +55,9 @@ In completing these assignments, you can use online resources and your peers for
 
 *Note on Collaboration*: To prevent any mistakes in this direction, at the end of your assignment, list the people you collaborated with and the online resources you referenced. This list does not mean you can copy derivations from your friends as long as you cite them. Any work you submit must follow from your own reasoning.
 
-Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement (”Sup 01” on the course website) will review the proper format for writing up your solutions.
+Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement ([Supplementary Notes 1](https://draft.ocw.mit.edu/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/resources/mitres_8_009su17_sup01/) website) will review the proper format for writing up your solutions.
 
-*Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam..
+*Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam.
 
 ### Exams
 
