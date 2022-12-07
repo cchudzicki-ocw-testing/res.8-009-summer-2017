@@ -49,6 +49,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### Recitations
 
 - Met once per week for 1 hour per session; mandatory attendance.
+- In recitations, the teaching assistant fielded questions from students and helped them work through sample problems.
 
 ### Out of Class
 
