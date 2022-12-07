@@ -31,13 +31,13 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 80
-- identifier: 39482682-7f41-42a9-b73c-66e01412bb43
-  name: Adjusting One's Teaching from Year to Year
-  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
-  url: /pages/adjusting-ones-teaching-from-year-to-year
-  weight: 10
 - identifier: 98d11b53-f33e-45ee-b062-3a23498933f8
   name: Developing the Courses
   parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
   url: /pages/developing-the-courses
+  weight: 10
+- identifier: 39482682-7f41-42a9-b73c-66e01412bb43
+  name: Adjusting One's Teaching from Year to Year
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  url: /pages/adjusting-ones-teaching-from-year-to-year
   weight: 20
