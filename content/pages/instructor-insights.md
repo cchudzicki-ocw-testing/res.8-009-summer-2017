@@ -42,15 +42,14 @@ Students in the MITES summer program are placed into one of three tiers of physi
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-### In Class
+### Lectures
 
-- Met once per week for 3 hours per session; 12 sessions total; mandatory attendance.
-- Students participated in active discussions, listened to weekly samples of African music, and delivered presentations of their final projects.
+- Met twice per week for 1.5 hours per session; 12 sessions total; mandatory attendance.
+
+### Recitations
+
+- Met once per week for 1 hour per session; mandatory attendance.
 
 ### Out of Class
 
-- Readings in preparation for class sessions
-- Attending theatrical performance and film screenings
-- 10 weekly reading responses
-- 5-page analytical paper
-- Creative final project
+- Outside of class, students completed weekly problem sets and studied for the midterm and final exam.
