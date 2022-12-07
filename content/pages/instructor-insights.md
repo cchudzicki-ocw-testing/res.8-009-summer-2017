@@ -10,12 +10,11 @@ uid: 527a46ca-5795-4125-ae2d-4eab080c11d4
 
 In the pages linked below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer courses *Introduction to Oscillations and Waves* in 2017 and *Introduction to Statistical Physics* in 2018.
 
+- {{% resource_link "58c9ea35-4280-46b0-b9b2-0e35388e6dfa" "Teaching in the MITES Summer Program" %}}
 - {{% resource_link "98d11b53-f33e-45ee-b062-3a23498933f8" "Developing the Courses" %}}
 - {{% resource_link "39482682-7f41-42a9-b73c-66e01412bb43" "Adjusting One's Teaching from Year to Year" %}}
 - {{% resource_link "6165e2f8-7d40-40ad-96c5-31e2a30b9a86" "The Problem-Solving Problem" %}}
 - {{% resource_link "080d1fb1-f22c-4ff2-bb4d-466f3c7f78c1" "High School as Preparation for College-Level Science" %}}
-- TLP 4
-- TLP 5
 
 ## Curriculum Information
 
