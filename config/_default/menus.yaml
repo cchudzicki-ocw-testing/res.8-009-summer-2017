@@ -7,23 +7,32 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
+- identifier: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
 - identifier: 311b8a27-7162-417d-8ab0-db1ce379098f
   name: Lecture Notes
   url: /pages/lecture-notes
-  weight: 30
+  weight: 40
 - identifier: d56984d2-7e01-4ab8-996f-5b9c1bc06672
   name: Supplementary Notes
   url: /pages/supplementary-notes
-  weight: 40
+  weight: 50
 - identifier: f93dca8f-b6e3-4bea-bbd5-2f6b0ebe057b
   name: Mathematica Codes
   url: /pages/mathematica-codes
-  weight: 50
+  weight: 60
 - identifier: dbcef353-5a9c-4fef-a62e-e6157fe67047
   name: Problem Sets
   url: /pages/problem-sets
-  weight: 60
+  weight: 70
 - identifier: bea677be-f33a-4e63-9b2b-adede40fb050
   name: Exams
   url: /pages/exams
-  weight: 70
+  weight: 80
+- identifier: 39482682-7f41-42a9-b73c-66e01412bb43
+  name: Adjusting One's Teaching from Year to Year
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  url: /pages/adjusting-ones-teaching-from-year-to-year
+  weight: 10
