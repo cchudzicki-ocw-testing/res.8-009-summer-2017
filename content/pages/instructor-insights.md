@@ -8,15 +8,13 @@ uid: 527a46ca-5795-4125-ae2d-4eab080c11d4
 ---
 ## Instructor Insights
 
-Below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer course *Introduction to Oscillations and Waves*.
+In the pages linked below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer course *Introduction to Oscillations and Waves*.
 
-- {{% resource_link "35f50cac-f5a3-c531-7e36-e27bc4cfaabd" "Africa as a Category of Thought" %}}
-- {{% resource_link "328937bd-fb02-485e-47e2-62e8f00376d9" "The Broader Relevance of Studying Africa" %}}
-- {{% resource_link "71af4be8-e69f-3dfe-5e61-1d13482075d8" "Varieties of Cultural Production" %}}
-- {{% resource_link "bf6f6c15-0b56-8678-05d1-3feeaefa9655" "Special Events" %}}
-- {{% resource_link "2925aec8-83b8-9025-e5a3-63b497f5b29c" "Written Reading Responses" %}}
-- {{% resource_link "28391e91-8c38-e15f-d63b-e4f59c20469a" "The Creative Final Project" %}}
-- {{% resource_link "98dbff36-2480-d42a-febe-8a80bcc9487a" "What Will It Be Like Next Time?" %}}
+- TLP 1
+- TLP 2
+- TLP 3
+- TLP 4
+- TLP 5
 
 ## Curriculum Information
 
@@ -38,9 +36,7 @@ There are no formal grades in the MITES summer program, but students do receive 
 
 ## Student Information
 
-About half the students were Africans from the continent or first-generation Americans of African background. Many of the non-African students were going to be working in Africa during the summer or had recently spent time there.
-
-{{< anchor "studenttime" >}}{{< /anchor >}}
+Students in the MITES summer program are placed into one of three tiers of physics classes based on their prior experience in the subject. Those who have never taken physics usually take Physics I. Those who have some exposure to physics (e.g., one class in basic mechanics) usually take Physics II. Students who have had substantial exposure to physics (e.g., multiple physics classes) and who also know calculus take Physics III. During the 2017 session, Physics III was *Introduction to Oscillations and Waves*.
 
 ## How Student Time Was Spent
 
