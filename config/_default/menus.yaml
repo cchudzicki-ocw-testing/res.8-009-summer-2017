@@ -41,3 +41,8 @@ leftnav:
   parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
   url: /pages/adjusting-ones-teaching-from-year-to-year
   weight: 20
+- identifier: 6165e2f8-7d40-40ad-96c5-31e2a30b9a86
+  name: The Problem-Solving Problem
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  url: /pages/the-problem-solving-problem
+  weight: 30
