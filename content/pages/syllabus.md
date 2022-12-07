@@ -41,9 +41,9 @@ This course will cover the basic mathematics and physics of oscillatory and wave
 
 There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
-- [MIT 8.03SC Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/): The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
-- [The Physics of Waves by Georgi](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/): Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
-- [Waves notes by Morin](https://scholar.harvard.edu/david-morin/waves): Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1–5 and chapter 8.
+- [The Physics of Vibrations and Waves](https://www.worldcat.org/formats-editions/57691593) by Pain: The MIT undergraduate version, including lecture videos, lecture notes, problem sets, and exams with solutions.
+- [The Physics of Waves](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/) by Georgi: Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
+- [Waves notes](https://scholar.harvard.edu/david-morin/waves) by Morin: Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1–5 and chapter 8.
 
 ### Assignments
 
