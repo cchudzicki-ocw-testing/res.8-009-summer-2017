@@ -12,7 +12,7 @@ In the pages linked below, Dr. Mobolaji Williams describes various aspects of ho
 
 - {{% resource_link "98d11b53-f33e-45ee-b062-3a23498933f8" "Developing the Courses" %}}
 - {{% resource_link "39482682-7f41-42a9-b73c-66e01412bb43" "Adjusting One's Teaching from Year to Year" %}}
-- TLP 2
+- {{% resource_link "6165e2f8-7d40-40ad-96c5-31e2a30b9a86" "The Problem-Solving Problem" %}}
 - TLP 3
 - TLP 4
 - TLP 5
