@@ -6,7 +6,7 @@ draft: true
 title: Instructor Insights
 uid: 527a46ca-5795-4125-ae2d-4eab080c11d4
 ---
-## Instructor Insights
+## Instructor Interview
 
 In the pages linked below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer course *Introduction to Oscillations and Waves*.
 
