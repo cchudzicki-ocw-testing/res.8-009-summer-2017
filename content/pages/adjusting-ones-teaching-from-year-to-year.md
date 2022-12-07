@@ -6,7 +6,7 @@ draft: false
 title: Adjusting One's Teaching from Year to Year
 uid: 39482682-7f41-42a9-b73c-66e01412bb43
 ---
-*In this section, Dr. Mobolaji Williams describes how his experiences teaching Introduction to Oscillations and Waves in the summer of 2017 informed his teaching of Introduction to Statistical Physics the following summer.*
+*In this section, Dr. Mobolaji Williams describes how his experiences teaching* Introduction to Oscillations and Waves *in the summer of 2017 informed his teaching of* Introduction to Statistical Physics *the following summer.*
 
 My experience teaching *Introduction to Oscillations and Waves* made clear that the students found some activities and materials were more helpful than others. For example, the students seemed to really like one particular session where I gave them some problems for a mid-term review, split them up into various groups, and then let them work out the problems on a blackboard. So when I taught *Introduction to Statistical Physics* the following year, I added "workshop sessions" where students did these blackboard-sessions as a way to collaborative learn topics on phase transitions and markov chain monte carlo (MCMC). 
 
