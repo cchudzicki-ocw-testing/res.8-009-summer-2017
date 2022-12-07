@@ -5,6 +5,8 @@ draft: false
 title: Exams
 uid: bea677be-f33a-4e63-9b2b-adede40fb050
 ---
+There are no solutions for final exam (group). 
+
 {{% resource_link "630f82e8-41a0-43c8-9de6-a904e12128c8" "Midterm Exam (PDF)" %}} 
 
 {{% resource_link "1ed2b441-3c17-40d9-b6f9-e4676116b9ae" "Midterm Exam Solutions (PDF)" %}}
