@@ -5,11 +5,13 @@ draft: false
 title: Mathematica Codes
 uid: f93dca8f-b6e3-4bea-bbd5-2f6b0ebe057b
 ---
-{{% resource_link "c31f4982-f471-41e8-8cad-568fe1b80712" "Numerical DE Assignmnet (NB)" %}} 
+This page includes 6 Wolfram Notebook (NB) files.
+
+{{% resource_link "c31f4982-f471-41e8-8cad-568fe1b80712" "Numerical DE Assignment (NB)" %}} 
 
 {{% resource_link "f8ac6d33-c994-4ec7-b662-78740a332d40" "Numerical DE Solution (NB)" %}} 
 
-{{% resource_link "e714c0d7-0b48-4a0b-a088-fffbda104a30" "Damped Oscillator Solution (NB)" %}} 
+{{% resource_link "e714c0d7-0b48-4a0b-a088-fffbda104a30" "Damped Oscillator with Solution (NB)" %}} 
 
 {{% resource_link "68e9a9d3-552d-4219-828f-86f8e3fc2d39" "Fourier Series Assignment (NB)" %}} 
 
