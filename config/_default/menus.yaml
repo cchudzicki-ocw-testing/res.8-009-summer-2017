@@ -46,3 +46,8 @@ leftnav:
   parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
   url: /pages/the-problem-solving-problem
   weight: 30
+- identifier: 080d1fb1-f22c-4ff2-bb4d-466f3c7f78c1
+  name: High School as Preparation for College-Level Science
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  url: /pages/high-school-as-preparation-for-college-level-science
+  weight: 40
