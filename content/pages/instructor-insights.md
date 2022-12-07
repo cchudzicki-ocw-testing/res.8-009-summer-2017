@@ -22,43 +22,21 @@ Below, Dr. Mobolaji Williams describes various aspects of how he taught the MITE
 
 ### Prerequisites
 
-There are no prerequisites for this course, but French language concentrators should have taken *21G.028 African Migrations* or have the permission of the instructor.
+With regard to mathematics, students should be proficient in algebra, matrix addition/multiplication, trigonometry, analytic geometry, and basic differentiation/integration. With regard to physics, students should have had prior exposure to and practice with Newton’s laws of motion, 1D kinematics, 2D projectile motion, and conservation of energy/momentum.
 
 ### Requirements Satisfied
 
-None
+Students in the MITES summer program take one physics course in addition to courses in life science, calculus, humanities, and engineering. *Introduction to Oscillations and Waves* is one of the courses that meet the program's physics requirement.
 
 ### Offered
 
- 
+Occasionally
 
 ## Assessment
 
-### Grade Breakdown
-
-The students' grades were based on the following activities:
-
-- 20% Reading responses (weekly, 10 total)
-- 20% Presentation of readings
-- 20% Paper
-- 30% Final project (20% project, 10% presentation)
-- 10% Class participation
+There are no formal grades in the MITES summer program, but students do receive numerical grades on their assignments and exams so that they and the instructors can track their progress. 
 
 ## Student Information
-
-### Enrollment
-
-12 students
-
-### Breakdown by Year
-
-About 2/3 sophomores and juniors; about 1/3 first-year students and seniors
-
-### Breakdown by Major
-
-Many engineering and computer science majors; a few humanities majors
-
-### Typical Student Background
 
 About half the students were Africans from the continent or first-generation Americans of African background. Many of the non-African students were going to be working in Africa during the summer or had recently spent time there.
 
