@@ -8,9 +8,9 @@ uid: 527a46ca-5795-4125-ae2d-4eab080c11d4
 ---
 ## Instructor Interview
 
-In the pages linked below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer course *Introduction to Oscillations and Waves*.
+In the pages linked below, Dr. Mobolaji Williams describes various aspects of how he taught the MITES summer course *Introduction to Oscillations and Waves* in 2017 and *Introduction to Statistical Physics* in 2018.
 
-- TLP 1
+- {{% resource_link "39482682-7f41-42a9-b73c-66e01412bb43" "Adjusting One's Teaching from Year to Year" %}}
 - TLP 2
 - TLP 3
 - TLP 4
