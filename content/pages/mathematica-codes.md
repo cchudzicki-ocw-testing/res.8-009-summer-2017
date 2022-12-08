@@ -5,7 +5,7 @@ draft: false
 title: Mathematica Codes
 uid: f93dca8f-b6e3-4bea-bbd5-2f6b0ebe057b
 ---
-This page includes 6 Wolfram Notebook (NB) files.
+This page includes six Wolfram Notebook (NB) files, which can be opened using the NotebookOpen command within a Mathematica function.
 
 {{% resource_link "c31f4982-f471-41e8-8cad-568fe1b80712" "Numerical DE Assignment (NB)" %}} 
 
