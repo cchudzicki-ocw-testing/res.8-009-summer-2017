@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This page includes 10 lecture notes
+description: This page includes 10 lecture notes.
 draft: false
 title: Lecture Notes
 uid: 311b8a27-7162-417d-8ab0-db1ce379098f
