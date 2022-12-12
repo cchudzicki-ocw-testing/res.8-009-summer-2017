@@ -17,7 +17,7 @@ uid: 311b8a27-7162-417d-8ab0-db1ce379098f
 
 {{% resource_link "bb090f3e-fefd-4b9f-afa0-8f73bc12659a" "Lecture 7: Wave Equation and Standing Waves (PDF)" %}}
 
-{{% resource_link "250102f0-4426-445c-9679-f866d516bba0" "Lecture 8: Traveling Waves and Boundary Interactions (PDF)" %}}
+{{% resource_link "47e695c4-ee58-4757-939e-d6db7934f6e2" "Lecture 8: Traveling Waves and Boundary Interactions (PDF)" %}}
 
 {{% resource_link "38b32559-77d1-45ad-8e10-51f7b276fafd" "Lecture 9: Maxwell’s Equations and Electromagnetic Waves (PDF)" %}}
 
