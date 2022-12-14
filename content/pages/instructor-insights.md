@@ -2,7 +2,7 @@
 content_type: page
 description: This page presents information on how RES.8-009 Introduction to Oscillations
   and Waves was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 527a46ca-5795-4125-ae2d-4eab080c11d4
 ---
